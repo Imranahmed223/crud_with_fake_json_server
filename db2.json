@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Saad Ahmed",
+      "email": "xyx@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "username": "Kashan Iqbal",
+      "email": "abc@gmail.com",
+      "password": "4566"
+    },
+    {
+      "username": "saadKhan",
+      "email": "qwe",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "saad123",
+      "email": "asd@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}

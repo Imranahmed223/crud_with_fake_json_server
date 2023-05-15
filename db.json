@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Electronics Items",
+      "price": "34500",
+      "id": 1
+    },
+    {
+      "name": "booksshkjk",
+      "price": "24000",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Sports",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "name": "Magzines",
+      "price": 1500
+    },
+    {
+      "id": 5,
+      "name": "Home-Appliances",
+      "price": 6600
+    }
+  ]
+}
